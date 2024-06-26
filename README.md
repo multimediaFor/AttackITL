@@ -1,5 +1,5 @@
 ## Transferable adversarial attack on image tampering localization
-An official implementation code for paper "[Transferable adversarial attack on image tampering localization](./main.pdf)"
+An official implementation code for paper "[Transferable adversarial attack on image tampering localization](./paper.pdf)"
 
 ### Network Architecture
 ![proposed_network](./pit.png)
