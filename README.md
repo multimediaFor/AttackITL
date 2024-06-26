@@ -2,7 +2,7 @@
 An official implementation code for the paper "[Transferable adversarial attack on image tampering localization](./paper.pdf)" published on JVCIR 2024.
 
 ### Proposed Scheme
-![proposed_network](./pit.png)
+![proposed_network](./network.png)
 
 Figure (a) Overview of the proposed adversarial attack framework. (b)(c) Proposed optimization-based and gradient-based attack methods against image tampering
 localization algorithms, respectively.
