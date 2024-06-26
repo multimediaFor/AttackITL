@@ -1,5 +1,5 @@
 ## Transferable adversarial attack on image tampering localization
-An official implementation code for paper "[Transferable adversarial attack on image tampering localization](./paper.pdf)"
+An official implementation code for the paper "[Transferable adversarial attack on image tampering localization](./paper.pdf)" published on JVCIR 2024.
 
 ### Network Architecture
 ![proposed_network](./pit.png)
@@ -22,7 +22,7 @@ python grad.py
 
 ## Bibtex
  ```
-@article{zhu2024effective,
+@article{cao2024AttackITL,
  title={Transferable Adversarial Attack on Image Tampering Localization},
  author={Gang Cao, Yuqi Wang, Haochen Zhu, Zijie Lou, Lifang Yu},
  journal={Journal of Visual Communication and Image Representation},
